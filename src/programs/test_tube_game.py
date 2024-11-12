@@ -5,6 +5,7 @@ class TestTubeGame:
     max_test_tube_colors = 0
     soln_moves = []
     meta_data = {}
+
     game_state = {}
     colors_mapping = {}
     color_hash = {}
